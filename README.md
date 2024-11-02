@@ -11,6 +11,7 @@
 <div style="display: flex; align-items: start;">
 
 <p>Estudante de Engenharia de Software pela FIAP.
+  sou desenvolvedor de software autônomo criando projetos sob demanda. estudante de Engenharia de Software.
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Typing SVG">
 
 </div>
