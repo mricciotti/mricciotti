@@ -8,7 +8,7 @@
 
 #
 
-<p align="center">Estudante de Engenharia de Software pela FIAP.
+<p>Estudante de Engenharia de Software pela FIAP.
   
 #
 
