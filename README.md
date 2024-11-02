@@ -8,7 +8,7 @@
 
 #
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: start;">
 
 <p>Estudante de Engenharia de Software pela FIAP.
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Typing SVG">
