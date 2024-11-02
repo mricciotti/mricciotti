@@ -8,11 +8,10 @@
 
 #
 
-<div style="display:flex">
+<div style="display: flex; align-items: center;">
 
 <p>Estudante de Engenharia de Software pela FIAP.
-  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Typing SVG">
-
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Typing SVG">
 
 </div>
   
