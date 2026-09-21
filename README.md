@@ -11,10 +11,10 @@
 
 ---
 
-## 💻 Front-end
+## Skills
 
 <div align="center">
-  <img src="./assets/stack.svg" alt="Front-end stack" />
+  <img src="./assets/stack.svg" alt="Skills" />
 </div>
 
 <p align="center">Componentização, design systems e entrega de interfaces React/TypeScript em produção.</p>
