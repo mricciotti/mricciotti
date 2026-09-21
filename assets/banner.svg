@@ -11,11 +11,6 @@
     <pattern id="grid" width="26" height="26" patternUnits="userSpaceOnUse">
       <path d="M 26 0 L 0 0 0 26" fill="none" stroke="#1d1d2b" stroke-width="1"/>
     </pattern>
-    <linearGradient id="scanGrad" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" stop-color="#3366ff" stop-opacity="0"/>
-      <stop offset="50%" stop-color="#3366ff" stop-opacity="0.35"/>
-      <stop offset="100%" stop-color="#3366ff" stop-opacity="0"/>
-    </linearGradient>
     <clipPath id="panelClip">
       <rect width="760" height="170" rx="16"/>
     </clipPath>
@@ -24,11 +19,6 @@
   <g clip-path="url(#panelClip)">
     <rect width="760" height="170" fill="url(#bgGrad)"/>
     <rect width="760" height="170" fill="url(#grid)"/>
-
-    <!-- moving scanline -->
-    <rect x="0" y="-60" width="760" height="60" fill="url(#scanGrad)">
-      <animate attributeName="y" from="-60" to="170" dur="5s" repeatCount="indefinite"/>
-    </rect>
   </g>
 
   <rect x="1" y="1" width="758" height="168" rx="15" fill="none" stroke="#2a2a3c" stroke-width="1.5"/>
