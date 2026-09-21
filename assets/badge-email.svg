@@ -1,0 +1,11 @@
+<svg width="150" height="42" viewBox="0 0 150 42" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0a12"/>
+      <stop offset="100%" stop-color="#050508"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="148" height="40" rx="8" fill="url(#bg)" stroke="#3366ff" stroke-width="1.5"/>
+  <rect x="1" y="38" width="148" height="3" rx="1.5" fill="#3366ff"/>
+  <text x="75.0" y="26.0" font-family="Consolas, 'Courier New', monospace" font-size="13" font-weight="700" letter-spacing="1.5" fill="#f2f3fa" text-anchor="middle">✉ EMAIL</text>
+</svg>
